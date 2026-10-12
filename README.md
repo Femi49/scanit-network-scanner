@@ -59,7 +59,7 @@ Some host discovery functions depend on operating-system utilities such as `ping
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Femi49E/scanit-network-scanner.git
+git clone https://github.com/Femi49/scanit-network-scanner.git
 ```
 
 ### 2. Navigate to the project directory
